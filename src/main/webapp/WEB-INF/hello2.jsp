@@ -1,7 +1,7 @@
 <%-- 
-    Document   : UseInclude
-    Created on : Sep 23, 2018, 9:07:19 PM
-    Author     : lendle
+    Document   : hello2
+    Created on : 2020/10/19, 下午 04:39:25
+    Author     : user
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -13,9 +13,5 @@
     </head>
     <body>
         <h1>Hello World!</h1>
-        <div style="position: absolute;bottom: 1px">
-            <jsp:include  page="/WEB-INF/ContactSection.jsp"/>
-           
-        </div>
     </body>
 </html>
